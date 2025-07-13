@@ -30,4 +30,6 @@ Overall, this chat application project serves as an excellent demonstration of r
 
 #OUTPUT
 
-<img width="1898" height="866" alt="Image" src="https://github.com/user-attachments/assets/efa44df3-fcf1-44d9-bc94-4c84e4068a25" />
+<img width="1898" height="866" alt="Image" src="https://github.com/user-attachments/assets/efa44df3-fcf1-44d9-bc94-4c84e4068a25" /><img width="1915" height="863" alt="Image" src="https://github.com/user-attachments/assets/4c7ca811-faaf-4eca-8d09-6f051464f608" />
+<img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/9beea130-341b-4d30-b4f3-b5ab8161916e" />
+<img width="1919" height="865" alt="Image" src="https://github.com/user-attachments/assets/4df38666-d70a-4f41-8ab0-bf38c0350692" />
